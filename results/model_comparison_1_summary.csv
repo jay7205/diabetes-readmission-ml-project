@@ -1,0 +1,9 @@
+,accuracy,precision,recall,f1,roc_auc
+Naive Bayes (oversampled),0.2387,0.1182,0.9014,0.209,0.6078
+Decision Tree,0.6158,0.1699,0.6285,0.2675,0.6608
+Ensemble,0.686,0.1909,0.5598,0.2847,0.6787
+Ridge Classifier (oversampled),0.6619,0.1777,0.5592,0.2697,0.6562
+Logistic Regression,0.6653,0.1785,0.5551,0.2702,0.6568
+Linear SVC (oversampled),0.6637,0.177,0.5516,0.268,0.6565
+Random Forest,0.6894,0.1852,0.5246,0.2738,0.6712
+KNN,0.8846,0.3442,0.0369,0.0667,0.5681
